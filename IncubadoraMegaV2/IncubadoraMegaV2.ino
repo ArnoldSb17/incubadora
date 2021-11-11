@@ -11,7 +11,7 @@
    int d5 = 10;
    int d6 = 9; 
    int d7 = 8;
-   LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+   LiquidCrystal lcd(rs, en, d4, d5, d6, d7); //as
 
 //reloj
    char DiaSemana[][4] = {"Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"};
